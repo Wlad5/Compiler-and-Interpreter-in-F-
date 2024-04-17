@@ -1,0 +1,51 @@
+Interpreter - a language translator for the computers, it takes code written in a programming
+            language and executes it line by line, converting each instruction into actions
+            the computer can understand.
+
+Compiler - a compiler takes the code written in a programming language and translates the entire
+            program into a form that the computer can directly execute without needing the original
+            source code.
+
+Virtual machine - it is a simulated computer within a computer. It runs programs just like a real
+                computer, but it operates within another computer's environment. It provides a platform
+                for running software that is isolated from the actual hardware.
+
+Assembler - a translator for low-level machine code. It converts assembly language, which is human-readable,
+            into machine code, which the computer's processor can understand and execute.
+
+Source language - the programming language you write your code in. It is the original language in which you 
+                express your instructions or algorithms.
+
+
+Target language - the language into which your source code gets translated by a compiler or an interpreter.
+                It is usually maachine code or another high-level language.
+
+Implementation language - the programming language used to write a compiler, interpreter, or any software
+                        system, the language in which the tools themselves are built.
+
+Environment - the surroundings in which a program runs, including things like hardware, operating system, and
+            other software.
+
+Grammar - the rules that define the structure of valid sentences or expressions in a language. In programming,
+        it specifies how statements and expressions should be formed.
+
+(Un)ambiguous grammar - a grammar is ambiguous if it allows multiple interpretations for a given expression.
+                        an unambiguous grammar, on the other hand, ensures that there is only one way to interpret
+                        each expression.
+
+Parser - it is like a grammer checker for programming languages. A parser takes the code written in a programming language
+        anc checks if it follows the syntax rules defined by the grammar. It breaks down the code into its components for further processing.
+
+Lexer: Also known as a tokenizer, it breaks down the code into tokens, which are the smallest units of meaning in a programming language. For example, in the expression x = 5 + 3, the tokens would be x, =, 5, +, and 3.
+
+Parser Generator: A tool that generates parsers from formal descriptions of languages, usually in the form of grammars. It automates the process of creating parsers for programming languages.
+
+Lexer Generator: Similar to a parser generator, but specifically for generating lexers or tokenizers from formal descriptions of languages.
+
+Expression: A combination of values, variables, operators, and functions that evaluates to a single value. For example, 5 + 3 is an expression that evaluates to 8.
+
+Value: A piece of data stored in a computer's memory that can be manipulated or processed by a program. Examples include numbers, strings, and boolean values.
+
+Type: A classification that specifies what kind of data a variable can hold and what operations can be performed on that data. For example, int for integers, float for floating-point numbers, and string for text.
+
+Pattern: In programming, it's a template or a blueprint used to match values against certain structures. It's often used in pattern matching or regular expressions to search for specific patterns within strings or data structures.

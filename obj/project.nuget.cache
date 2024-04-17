@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7MhFif2k+A+1N0t9o+LE3BxFrhTXMvcSZoZmHI7F7J/c3q1xynHZLZxxm8I6y6S1uLgct5VjHPWdGP9zKLMwAQ==",
+  "success": true,
+  "projectFilePath": "D:\\mp\\mp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlad\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512",
+    "C:\\Users\\vlad\\.nuget\\packages\\fslexyacc\\10.2.0\\fslexyacc.10.2.0.nupkg.sha512",
+    "C:\\Users\\vlad\\.nuget\\packages\\fslexyacc.runtime\\10.2.0\\fslexyacc.runtime.10.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
